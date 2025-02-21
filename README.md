@@ -25,7 +25,8 @@ Reduced 20% of underutilized resources through actionable recommendations.
 
 Clone the repository: git clone https://github.com/ayebiahwea/reducing-vm-consumption-cost.git
 Install dependencies
-Run the analysis scripts
+Run the analysis scripts:
+**python scriptuse_pa.py**
 View the visualizations in the results/ folder or open the provided Jupyter Notebook.
 
 # Contributing
